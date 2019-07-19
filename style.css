@@ -9,9 +9,18 @@ body {
     width:60%;
 }
 
+
 h1 {
     font-size:32px;
 }
+
+.container{
+    width:70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#topPage {
+
 
 #logoImages img{
     float:right;
@@ -23,7 +32,8 @@ h1 {
 }
 
 #pizzaPic {
-
+    max-width:100%;
+    height: auto;
 }
 
 #paras {
