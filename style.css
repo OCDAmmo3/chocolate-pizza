@@ -12,6 +12,12 @@ body {
 h1 {
     font-size:48px;
 }
+h5 {
+    float: left;
+}
+h6 {
+    float: right;
+}
 
 #logoImages img{
     float:right;
